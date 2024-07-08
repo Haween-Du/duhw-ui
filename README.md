@@ -1,2 +1,3 @@
-# duhw-ui
-write some components to improve myself
+# react_self
+
+record what I've learned every day
