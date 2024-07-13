@@ -11,6 +11,7 @@ const TabTaiWind: React.FC<TabTaiWindProps> = (props) => {
   const [num, setNum] = useState(0);
 
   const handleClick = (index: number) => {
+    console.log(111);
     setNum(index);
   };
 
